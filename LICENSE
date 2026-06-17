@@ -1,24 +1,21 @@
-Commercial License (Paid)
+MIT License
 
 Copyright (c) 2025 WoPixel
 
-This repository is proprietary software. The code, design, assets, and related
-materials are licensed for use only under a valid commercial license purchased
-from https://wopixel.com.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-You may NOT copy, modify, redistribute, sublicense, resell, or deploy this
-software without first obtaining a paid license from WoPixel.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-If you have purchased a license, your license agreement will define the exact
-permissions granted to you. In the absence of a separate written agreement,
-all rights are reserved by WoPixel.
-
-No part of this software may be used in a way that violates the terms of your
-license agreement, including but not limited to redistribution, public hosting,
-or use in competing products without explicit authorization.
-
-THE SOFTWARE IS PROVIDED "AS IS" AND WOPIXEL DISCLAIMS ALL WARRANTIES, EXPRESS
-OR IMPLIED, INCLUDING MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
-
-For purchasing information, please visit:
-https://wopixel.com
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
